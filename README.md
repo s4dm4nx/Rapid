@@ -1,2 +1,23 @@
+<img src="Screenshot/r.png">
+
 # Rapid
-Rapid , tools for get Location , Keylogger , Cookies .... from URL 
+Rapid is a Remote Access Tool (RAT) for browsers 
+
+##### Features:
+- Get Location
+- Keylogger
+- Make requests
+- Run Javascript code
+- Get Cookies
+
+
+
+### Download
+[Rapid](https://github.com/s4dm4nx/Rapid/releases)
+
+
+### Donation
+BTC: 12DaUTCemhDEzNw7cAFg9FndzcWkYZt6C8
+
+##### 
+This application should be used for educational purposes only
