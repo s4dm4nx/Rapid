@@ -17,7 +17,7 @@ Rapid is a Remote Access Tool (RAT) for browsers
 
 
 ### Donation
-BTC: 12DaUTCemhDEzNw7cAFg9FndzcWkYZt6C8
+BTC: 3QZc55nK3VN5B7qMRGJysFXTxaQQA8gMRR
 
 ##### 
 This application should be used for educational purposes only
